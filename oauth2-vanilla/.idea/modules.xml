@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/authserver/oauth2-vanilla-authserver.iml" filepath="$PROJECT_DIR$/authserver/oauth2-vanilla-authserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resource/oauth2-vanilla-resource.iml" filepath="$PROJECT_DIR$/resource/oauth2-vanilla-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui/oauth2-vanilla-ui.iml" filepath="$PROJECT_DIR$/ui/oauth2-vanilla-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pairs-oauth2-vanilla.iml" filepath="$PROJECT_DIR$/pairs-oauth2-vanilla.iml" />
+    </modules>
+  </component>
+</project>

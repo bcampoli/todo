@@ -1,0 +1,10 @@
+<form ng-submit="home.update()">
+	<div class="form-group">
+		<label for="username">Task Content:</label> <input type="text"
+			class="form-control" id="content" name="content" ng-model="home.task.content"/>
+	</div>
+	<div class="form-group">
+		<label for="username">Assigned to User:</label> <input type="text" class="form-control" id="assignedTo" name="assignedTo" ng-model="home.task.assignedTo"/>
+	</div>
+	<button type="submit" class="btn btn-primary">Submit</button>
+</form>
